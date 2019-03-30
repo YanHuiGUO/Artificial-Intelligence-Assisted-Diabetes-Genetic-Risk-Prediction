@@ -1,7 +1,6 @@
 # Artificial-Intelligence-assisted-diabetes-genetic-risk-prediction
 This is the source code of Tianchi precision medicine competition -- Artificial Intelligence assisted diabetes genetic risk prediction 2018  
-* Quick Start
-* run main.py  
+* Quick Start - run main.py  
 * Structure Description  
 * data-  
 	* save the original training and testing data  
